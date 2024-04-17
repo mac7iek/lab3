@@ -11,7 +11,7 @@ public class Main{
       for(int j = 0; j < size; j++) {
         System.out.print(symbol);
       }
-       System.out.println(); 
+       System.out.println();
     }
   }
 }
